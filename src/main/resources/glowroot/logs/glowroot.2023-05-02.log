@@ -1,0 +1,2 @@
+2023-05-02 13:06:00.023 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)
+2023-05-02 14:11:00.002 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)

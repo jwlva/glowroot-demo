@@ -1,0 +1,49 @@
+2023-05-04 02:48:00.015 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)
+2023-05-04 09:48:38.329 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 09:48:38.331 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 09:48:38.332 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=54592:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 09:48:42.088 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 09:50:00.035 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)
+2023-05-04 09:53:24.681 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 09:53:24.683 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 09:53:24.683 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=54944:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 09:53:26.377 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 09:54:37.508 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 09:54:37.510 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 09:54:37.511 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=55008:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 09:54:39.200 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 09:55:30.537 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 09:55:30.539 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 09:55:30.540 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=55058:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 09:55:32.231 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 09:59:11.959 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 09:59:11.961 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 09:59:11.962 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=55259:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 09:59:15.636 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 10:00:00.049 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)
+2023-05-04 10:02:55.214 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 10:02:55.216 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 10:02:55.216 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=55522:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 10:02:56.877 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 10:04:59.685 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 10:04:59.687 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 10:04:59.688 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=55611:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 10:05:01.326 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 13:58:57.650 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 13:58:57.653 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 13:58:57.654 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=51132:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 13:58:59.448 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 14:00:00.041 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)
+2023-05-04 14:03:00.691 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 14:03:00.693 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 14:03:00.693 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Downloads\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=51396:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 14:03:02.367 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 14:05:00.035 WARN  o.g.a.e.s.o.g.c.r.u.AlertingService - not sending alert due to missing SMTP host configuration (this warning will be logged at most once an hour)
+2023-05-04 14:41:07.153 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 14:41:07.155 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 14:41:07.155 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Documents\GitHub\spring-boot-file-upload-download-rest-api-example\src\main\resources\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=59774:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 14:41:08.919 INFO  org.glowroot - UI listening on 127.0.0.1:4001 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
+2023-05-04 15:21:32.733 INFO  org.glowroot - Glowroot version: 0.14.0-beta.2, built 2021-11-08 01:15:43 +0000
+2023-05-04 15:21:32.736 INFO  org.glowroot - Java version: 17.0.6 (JetBrains s.r.o. / Windows 10)
+2023-05-04 15:21:32.736 INFO  org.glowroot - Java args: -javaagent:C:\Users\629415\Documents\GitHub\glowroot-demo\src\main\resources\glowroot\glowroot.jar -XX:TieredStopAtLevel=1 -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=53403:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin
+2023-05-04 15:21:34.651 INFO  org.glowroot - UI listening on 127.0.0.1:4000 (to access the UI from remote machines, change the bind address to 0.0.0.0, either in the Glowroot UI under Configuration > Web or directly in the admin.json file, and then restart JVM to take effect)
